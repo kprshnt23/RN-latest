@@ -1,4 +1,4 @@
-package com.rnbackground
+package com.postilion.okchalodriver
 
 import android.app.Application
 import com.facebook.react.PackageList
