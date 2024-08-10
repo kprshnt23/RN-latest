@@ -9,7 +9,6 @@ BackgroundJob.on('expiration', () => {
 });
 
 const taskRandom = async (taskData: any) => {
-  console.log('hellooooo anjum babyyyyy');
   const { delay } = taskData;
 
   // Define a function to get the current position

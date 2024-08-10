@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1062666451034",
+    "firebase_url": "https://okchalo-97c29-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "okchalo-97c29",
+    "storage_bucket": "okchalo-97c29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062666451034:android:27531a8499629f055d0063",
+        "android_client_info": {
+          "package_name": "com.postilion.okchalodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062666451034-e837msd2nda27fi517saim39i1v8dntb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwq_J0O4-BlFO-h8aL0GgJnzqPUJoQt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062666451034-e837msd2nda27fi517saim39i1v8dntb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062666451034-6am8e6s4q95qnqihoupl9bdolckdsd2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.postilion.okchalo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062666451034:android:3e85f2d264502d5d5d0063",
+        "android_client_info": {
+          "package_name": "com.postilion.okchalorider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062666451034-e837msd2nda27fi517saim39i1v8dntb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwq_J0O4-BlFO-h8aL0GgJnzqPUJoQt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062666451034-e837msd2nda27fi517saim39i1v8dntb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062666451034-6am8e6s4q95qnqihoupl9bdolckdsd2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.postilion.okchalo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
